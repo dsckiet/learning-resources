@@ -14,6 +14,7 @@
 - [Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [ML course by Andrew Ng](https://www.coursera.org/learn/machine-learning) (Preferred)
 - [ML Curriculum](https://drive.google.com/file/d/1jfEOGC8B9dfYpnsl8BqUMSOp5AilibMw/view?usp=sharing)
+- [One Forth Labs](https://padhai.onefourthlabs.in/)
 
 ## Deep Learning
 
