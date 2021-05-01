@@ -17,17 +17,17 @@
   - Hero
   - Opacity
 - In these static apps you must play with storage too like:
- - [Shared Preference](https://pub.dev/packages/shared_preferences)
- - [File System](https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
- - [Sqlite](https://flutter.dev/docs/cookbook/persistence/sqlite)
+   - [Shared Preference](https://pub.dev/packages/shared_preferences)
+   - [File System](https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
+   - [Sqlite](https://flutter.dev/docs/cookbook/persistence/sqlite)
 - After learning about the APIs and basic Networking Part of Flutter start working on a new Project and Implement all this. Try to use some advanced UI Elements in your app.
 - Also start using the Cool Packages from [Pub.dev](http://pub.dev). You can also implement them on your
   own, if you can :) As always keep the Course running in Parallel
-- You can find interesting API to work with here :
+- You can find interesting API to work with here (For consuming these API use [http](https://pub.dev/packages/http) or [dio](https://pub.dev/packages/http)) :
   - [github](https://github.com/public-apis/public-apis)
   - [apilist](https://apilist.fun/)
   - [rapidapi](https://rapidapi.com/collection/list-of-free-apis)
-  For consuming these API use [http](https://pub.dev/packages/http) or [dio](https://pub.dev/packages/http)
+ 
 - At this point the Course and you would have likely covered all the Basics. So now start focusing on writing clean and Manageable Code. Focus on the OOPs concept and learn how to modularise the Code in Files and Classes. Now you can either finish with the Course {Firebase Auth, Firebase Database, Firebase Storage, Firebase Messaging and Advanced Topics} or make some more Projects using new Widgets and better state management techniques.
   - Learn [Provider](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple) if you haven’t by now from YouTube or whatever source you find the best. Provider is the easiest state management to pick up and will make your development journey a lot easier.
   - That said, if you have a strong background in state management from other reactive frameworks, you can find packages and tutorials listed [here](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options).
@@ -40,10 +40,10 @@
   - Want to contribute or participate globally. What architecture will you use? Your answer to this will decide whether you will get the job or lose it. So, for an easy start go to the [RESO CODER](https://www.youtube.com/c/ResoCoder) youtube channel and learn clean architecture and [test-driven development(TDD)](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech).
   - Last but not least, if you still want to get the best deal in the market with flutter then get your hands dirty on [DDD (Domain-Driven Design)](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iS5p-IezFFgqP6YvAJy84U), learn from RESO CODER, which again uses firebase so yeah only half of it is the pain now, as you have already covered the firebase part. PS: This architecture is followed in many other languages and frameworks too.
   - Quality Assurance, this is important for realsing your app (After all, now you are a champ!):
-   - Firebase Crashlytics, App distribution, Analytics
-   - Google play beta tests
-   - TestFlight
-   - App Center
+    - Firebase Crashlytics, App distribution, Analytics
+    - Google play beta tests
+    - TestFlight
+    - App Center
   - Notes: Flutter has excellent Documentation so consult it whenever in doubt. Some good Youtube Channels are :
     - [Code with Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q)
     - [MTECHVIRAL](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA)
@@ -53,6 +53,6 @@
   - **This thing here is the real Flutter Roadmap in all its glory: [https://github.com/olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)** But it's hard to follow :)
   - Join [Flutter India](https://t.me/FlutterIndia) and [Other Flutter channels](https://t.me/dartlang_group) on Telegram to get your doubts resolved Instantly.
   - For staying updated with the Flutter world subscribe to these newsletters:
-   - [Reso Coder](https://resocoder.com/)
-   - [Code With Andrea](https://codewithandrea.com/newsletter/)
+    - [Reso Coder](https://resocoder.com/)
+    - [Code With Andrea](https://codewithandrea.com/newsletter/)
   - If you are female or non-binary don't forget to join Flutterista ( A world-wide community of people who identify as women or non-binary who have an interest in the Flutter SDK. The Flutteristas have a monthly meeting which usually includes a presentation by Google Flutter team member(s) or other Flutter Community member(s).). To join send a message to @GeekMeSpeakStef or @imafiguresk8r.
