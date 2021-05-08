@@ -8,6 +8,7 @@
 - Layouts : [Android Basics: User Interface - Udacity](https://classroom.udacity.com/courses/ud834) [Unit 1 & 2].
 - Android Basics : [Developing Android Apps with Kotlin - Udacity](https://classroom.udacity.com/courses/ud9012) [Unit 1 + Unit 2 (upto module 17).
   - Read about findViewById and Data Binding to link views.
+  - Read and implement View Binding in your project. (Refer official docs).
   - Learn about intent.
 - Study about fragments and traditional way of navigation between fragments: [Fragment to Fragment Communication - YouTube](https://www.youtube.com/watch?v=BVab9vDrra4)
 - Fragments and Nav Components: [Jetpack Navigation Component in One Video - YouTube](https://www.youtube.com/watch?v=IEO2X5OU3MY)
