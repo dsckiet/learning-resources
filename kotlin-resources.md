@@ -16,9 +16,9 @@
 1. Udacity: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 2. Youtube: [Android Layout Tutorials](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9MhlVktRWIk0va1s3GLiJR)
 3. Articles:
-		https://www.tutorialspoint.com/android/android_user_interface_layouts.htm
-		https://www.geeksforgeeks.org/android-ui-layouts/
-		https://developer.android.com/guide/topics/ui/declaring-layout
+	1. https://www.tutorialspoint.com/android/android_user_interface_layouts.htm
+	2. https://www.geeksforgeeks.org/android-ui-layouts/
+	3. https://developer.android.com/guide/topics/ui/declaring-layout
 
 ### Android Architecture Basics :
 1. [ViewBinding](https://www.youtube.com/watch?v=omml4lK_b-A) and [DataBinding](https://www.youtube.com/playlist?list=PLSrm9z4zp4mFwo3s-2r1uUNoTcLz77pCZ)
@@ -53,10 +53,14 @@
 2. [SQLite Database](https://www.youtube.com/playlist?list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ)
 3. [Room Database](https://www.youtube.com/playlist?list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o)
 
-### Online Storage:
+### Remote Storage:
 1. [Firebase](https://firebase.google.com/docs/android/setup)
 
 	Note: Many tutorials of Firebase are available on Youtube as well.
+	
+### Asynchronous Programming:
+1. [Coroutines](https://www.youtube.com/playlist?list=PLgCYzUzKIBE_PFBRHFB_aL5stMQg3smhL)
+2. [RxJava and RxAndroid for Beginners](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-8wE9Sv3yzYZlo70PBmFPz)
 
 ### Enhancing UX:
 1. Animations: [Images,Animations,Transitions-Android Programming](https://www.youtube.com/playlist?list=PLrnPJCHvNZuARS1W7qMt-zxBNqWYZpOg6)
@@ -66,6 +70,10 @@
 1. [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
 2. [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
 3. [Stevdza San](https://www.youtube.com/c/StevdzaSan)
+
+## Android Interview Resources:
+1. [MindOrks Github](https://github.com/MindorksOpenSource/android-interview-questions)
+2. [Interview Bit](https://www.interviewbit.com/android-interview-questions/amp/)
 
 ## Other helpful links:
 1. [Develop Android apps with Kotlin](https://developer.android.com/kotlin)
