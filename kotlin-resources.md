@@ -75,6 +75,7 @@
     1) [APK](https://www.youtube.com/watch?v=ydwXiCSPl8w)
     2) [AAB](https://developer.android.com/guide/app-bundle)
 5. [Linux Kernel](https://source.android.com/devices/architecture/kernel)
+6. [Android Studio & Emulator Settings](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAt6otixVMdUVM6pIlJ64Ov)
 
 # Complete Roadmap   
  ![Roadmap](https://github.com/skydoves/android-developer-roadmap/blob/main/images/android_developer_roadmap.png)
