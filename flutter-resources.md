@@ -1,6 +1,7 @@
 # Flutter Roadmap
 
 - Start with a Flutter Course (For Structured Learning). Some of the Best Courses are :
+  - Vandad Navahandipoor - [Youtube](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) (Beginner Friendly and Updated)
   - Angela Yu Flutter Course - [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/), [freecoursesite](https://freecoursesite.com/the-complete-flutter-development-bootcamp-with-dart/) (Easy and Beginner Friendly)
   - Maximilian Flutter Course - [Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/), [freecoursesite](https://freecoursesite.com/learn-flutter-dart-to-build-ios-android-apps-1/) (Very Detailed and Excellent for strong learning)
 - Halfway through the Course when you are Introduced to the Basic UI Widgets, start working on a UI Clone App(like spotify,netflix,twitter) {skip core functionality for now and focus more on UI Blocks. Try to make your code as adaptive and responsive as possible} of your Choice, to get better at UI Making. And of course, keep the Course running in parallel.
