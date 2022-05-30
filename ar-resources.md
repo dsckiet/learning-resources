@@ -21,8 +21,8 @@
 1. [Lighting in Unity](https://www.youtube.com/watch?v=VnG2gOKV9dw)
 2. [Camera](https://www.youtube.com/watch?v=537B1kJp9YQ)
 3. Movement:
-	a. [Third Person](https://www.youtube.com/watch?v=4HpC--2iowE)
-	b. [First Person](https://www.youtube.com/watch?v=_QajrabyTJc)
+	1) [Third Person](https://www.youtube.com/watch?v=4HpC--2iowE)
+	2) [First Person](https://www.youtube.com/watch?v=_QajrabyTJc)
 4. [Build/Export](https://www.youtube.com/watch?v=7nxKAtxGSn8)
 	
 ## Enhancements
@@ -31,10 +31,10 @@
 3. [TileMaps](https://www.youtube.com/watch?v=ryISV_nH8qw)
 4. [ProBuilder](https://www.youtube.com/watch?v=YtzIXCKr8Wo)
 5. Shaders:
-	a. [Shader Graph Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Q9Iz3PiQ3nvNowtEJ97Tu)
-	b. [Shaders For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)
+	1) [Shader Graph Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Q9Iz3PiQ3nvNowtEJ97Tu)
+	2) [Shaders For Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)
 6. Rendering
-	a. [HDRP vs URP](https://www.youtube.com/watch?v=5MuA92xUJCA)
+	1) [HDRP vs URP](https://www.youtube.com/watch?v=5MuA92xUJCA)
 7. [Post Processing](https://www.youtube.com/watch?v=9tjYz6Ab0oc)
 
 ## Important Tools
@@ -47,9 +47,9 @@
 1. [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
 2. [Game Dev Tutorials](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl)
 3.  Lightship
-	a. [Lightship Tutorials](https://www.youtube.com/playlist?list=PLCyCMgj5D_z6CGh9s2SNr4fbdSM_LOhwo)
-	b. [Niantic Lab Lightship ARDK](https://www.youtube.com/playlist?list=PLQMQNmwN3FvxnT4KRXdYPGhPZ2kNWuOij)
-	c. [Getting Started with Lightship](https://www.youtube.com/playlist?list=PLCyCMgj5D_z7OySG2dhZEeEtR2sQ7m5A_)
+	1) [Lightship Tutorials](https://www.youtube.com/playlist?list=PLCyCMgj5D_z6CGh9s2SNr4fbdSM_LOhwo)
+	2) [Niantic Lab Lightship ARDK](https://www.youtube.com/playlist?list=PLQMQNmwN3FvxnT4KRXdYPGhPZ2kNWuOij)
+	3) [Getting Started with Lightship](https://www.youtube.com/playlist?list=PLCyCMgj5D_z7OySG2dhZEeEtR2sQ7m5A_)
 
 ##  Other Game Development Tutorials
 1. [2D platformer](https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c)
@@ -60,12 +60,12 @@
 6. [Racing](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKgkE9ji0tF2iDO0LGxmlwIm)
 7. [Role playing](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
 8. Shooter
-	a. First Person
-	1) [How to make FPS in Unity](https://www.youtube.com/playlist?list=PLDVrbPbYnQv0t0hDOzVcyrqzTVa6P3whD)
-	2) [Lets Make a FPS in Unity](https://www.youtube.com/playlist?list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC)
-	3) [Multiplayer](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ)
+	1) First Person
+		1) [How to make FPS in Unity](https://www.youtube.com/playlist?list=PLDVrbPbYnQv0t0hDOzVcyrqzTVa6P3whD)
+		2) [Lets Make a FPS in Unity](https://www.youtube.com/playlist?list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC)
+		3) [Multiplayer](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ)
 	
-	b. [Third Person](https://www.youtube.com/playlist?list=PLzDRvYVwl53uyqhV7iRAPgoNxXh1nVCUs)
+	2) [Third Person](https://www.youtube.com/playlist?list=PLzDRvYVwl53uyqhV7iRAPgoNxXh1nVCUs)
 9. [Tower Defense](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
 
 ## Other helpful links
